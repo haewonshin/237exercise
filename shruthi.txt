@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi, this is shruthi
 
 yes this is
+=======
+no, this is not shruthi
+>>>>>>> 7998b220c9c8b76944598e1609b96f60a9473bb3
